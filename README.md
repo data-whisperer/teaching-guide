@@ -19,3 +19,8 @@ Hi, I'm Don. I'm building this course as a learning tool for my own learning. As
   1. Additional or related concepts: This component is to allow the module to be stretched to a whole day in case this is a module that justifies a deeper treatment or if the delivery is in a workshop or boot camp scenario. This content should contain additional bits of the first 3 components (introduction, challenge and questions). These concepts may extend to lower priority aspects of the morning concepts or the challenge may just provide more opportunity for repetition.
 
 The sequence of modules during a delivery will be very important to ensure the right amount of interleaving, spacing, repetition and reflection.
+
+
+## Quality of course materials
+
+* It's important that the data sets used in the course represent the vast types of data that is likely to be encountered. Some examples might be: highly numeric, highly text-based, have a lot of diversity, but also across a number of different sectors, such as environmental, biomedic, mathematical, binary/image, social, etc.
